@@ -23,6 +23,10 @@ me.dreamvoid.miraimc.bungee.event.message.passive
 me.dreamvoid.miraimc.bungee.event.message.postsend
 me.dreamvoid.miraimc.bungee.event.message.presend
 me.dreamvoid.miraimc.bungee.event.message.recall
+me.dreamvoid.miraimc.event
+me.dreamvoid.miraimc.httpapi
+me.dreamvoid.miraimc.httpapi.exception
+me.dreamvoid.miraimc.httpapi.response
 me.dreamvoid.miraimc.nukkit.event
 me.dreamvoid.miraimc.nukkit.event.bot
 me.dreamvoid.miraimc.nukkit.event.friend
