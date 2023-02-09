@@ -1,6 +1,7 @@
 me.dreamvoid.miraimc.api
 me.dreamvoid.miraimc.api.bot
 me.dreamvoid.miraimc.api.bot.group
+me.dreamvoid.miraimc.api.bot.group.active
 me.dreamvoid.miraimc.bukkit.event
 me.dreamvoid.miraimc.bukkit.event.bot
 me.dreamvoid.miraimc.bukkit.event.friend
